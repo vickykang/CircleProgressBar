@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressBar">
+        <attr name="android:max" />
+        <attr name="android:progress" />
+        <attr name="android:secondaryProgress" />
+        <attr name="android:thickness" />
+        <attr name="progressBackground" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="secondaryProgressColor" format="color" />
+    </declare-styleable>
+</resources>
